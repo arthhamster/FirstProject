@@ -1,5 +1,7 @@
+@import url('ComicSans.ttf');
+
 * {
-    font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", sans-serif;
+    font-family: "ComicSans", "Comic Sans", "Comic Sans MS", "Chalkboard", sans-serif;
 }
 
 body {
