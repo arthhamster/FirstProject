@@ -1,3 +1,3 @@
 function myOtherFunction() {
-    alert("Wello, Horld");
+    alert("Wello horld!");
 }
