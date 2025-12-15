@@ -22,6 +22,9 @@ button {
 .greenBtn {
     background: green;
 }
+.blueBtn {
+    background: blue;
+}
 
 a {
     color: yellow;
