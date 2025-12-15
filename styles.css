@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+
+button {
+    color: white;
+}
+
+.redBtn {
+    background: red;
+}
+.greenBtn {
+    background: green;
+}
