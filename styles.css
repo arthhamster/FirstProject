@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'ComicSans';
-    src: url('ComicSans.ttf') format('truetype');
+    src: url('https://arthhamster.github.io/FirstProject/ComicSans.ttf') format('truetype');
 }
 
 * {
