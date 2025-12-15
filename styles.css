@@ -1,5 +1,5 @@
 * {
-    font-family: "Comic Sans MS", sans-serif;
+    font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", sans-serif;
 }
 
 body {
@@ -7,9 +7,17 @@ body {
     color: white;
 }
 
+button {
+    color: #ff00ff;
+}
+
 .redBtn {
     background: red;
 }
 .greenBtn {
     background: green;
+}
+
+a {
+    color: yellow;
 }
